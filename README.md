@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @JClokey
+- 👀 I’m interested in data vis, stats, predictions, munging
+- 🌱 I’m currently doing a PhD in environmental and analytical chemistry, using python to take it to new places
